@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Entry point
- * Description: Determines if a number is positive, negative or zero
- * Result: Always 0 (code is working)
+ * main - prints if a random number is positive, negative or zero
+ *
+ * Return: Always 0 (code is working)
  */
 int main(void)
 {
